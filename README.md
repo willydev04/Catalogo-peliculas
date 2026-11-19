@@ -28,7 +28,7 @@ java Main
 
 Equipo de trabajo:
 
-Wilmar Said Cuervo
+Wilmar Said Cuervo - 
 Samuel Rosero Posada
 
 Proyecto académico: Catálogo de Películas.
